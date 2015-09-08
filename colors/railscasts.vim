@@ -26,7 +26,7 @@ let g:colors_name = "railscasts"
 " Light Green  #A5C261
 " Tan          #FFC66D
 
-hi Normal                    guifg=#E6E1DC guibg=#2B2B2B ctermfg=white ctermbg=234
+hi Normal                    guifg=#E6E1DC guibg=#2F2A35 ctermfg=white ctermbg=234
 hi Cursor                    guifg=#000000 guibg=#FFFFFF ctermfg=0 ctermbg=15
 hi CursorLine                guibg=#333435 ctermbg=235 cterm=NONE
 hi Search                    guibg=#5A647E ctermfg=NONE ctermbg=236 cterm=underline
@@ -51,7 +51,7 @@ hi SpecialKey                guifg=#777777 gui=NONE
 " Misc
 " ----
 " directory names and other special names in listings
-hi Directory                 guifg=#A5C261 gui=NONE
+hi Directory                 guifg=#E2B13C gui=NONE ctermfg=107 cterm=NONE
 
 " Popup Menu
 " ----------
